@@ -1,0 +1,2 @@
+# BicardX
+Business Card Extraction
